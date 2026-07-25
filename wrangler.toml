@@ -1,5 +1,0 @@
-name = "MJ-Panel"
-main = "Source.js"
-compatibility_date = "2026-07-25"
-compatibility_flags = ["nodejs_compat"]
-
