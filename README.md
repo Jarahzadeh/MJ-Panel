@@ -46,7 +46,6 @@
 
 ## Contact
 
-WhatsApp only: [ +971557256658 ](https://wa.me/971557256658)
 
 ---
 
