@@ -1,0 +1,18 @@
+VERSION=1.0.8
+<div class="text-center">
+    <div class="inline-flex items-center justify-center w-16 h-16 rounded-full bg-blue-100 dark:bg-blue-900/30 text-blue-600 mb-4 shadow-inner">
+        <svg class="w-8 h-8" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18Z"/>
+        </svg>
+    </div>
+    <h3 class="font-black text-xl text-gray-900 dark:text-white mb-3">خوش آمدی به MJ Panel</h3>
+    <p class="text-sm text-gray-600 dark:text-gray-400 mb-6 leading-relaxed font-medium">
+        خوشحالیم که اینجا هستی. برای پشتیبانی و هماهنگی فقط از واتساپ استفاده کن.
+    </p>
+    <a href="https://wa.me/971557256658" target="_blank" class="w-full py-3 bg-green-600 text-white hover:bg-green-700 font-bold rounded-md text-sm transition duration-300 shadow-sm flex items-center justify-center gap-2">
+        <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M20.52 3.48A11.8 11.8 0 0 0 12.05 0C5.41 0 .03 5.38 0 12.02c0 2.11.55 4.17 1.6 5.98L0 24l6.17-1.62a11.96 11.96 0 0 0 5.87 1.5h.01c6.64 0 12.02-5.38 12.02-12.02 0-3.22-1.25-6.25-3.55-8.38Z"/>
+        </svg>
+        واتساپ
+    </a>
+</div>
