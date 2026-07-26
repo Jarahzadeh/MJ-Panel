@@ -1,18 +1,33 @@
 [
   {
+    "name": "CH.txt"
+  },
+  {
     "name": "CU.txt"
   },
   {
     "name": "DE.txt"
   },
   {
+    "name": "FR.txt"
+  },
+  {
+    "name": "HT.txt"
+  },
+  {
+    "name": "IN.txt"
+  },
+  {
     "name": "IT.txt"
   },
   {
-    "name": "LV.txt"
+    "name": "MX.txt"
   },
   {
     "name": "NL.txt"
+  },
+  {
+    "name": "RU.txt"
   },
   {
     "name": "SG.txt"
@@ -27,21 +42,9 @@
     "name": "KR.txt"
   },
   {
-    "name": "HT.txt"
-  },
-  {
     "name": "CA.txt"
   },
   {
     "name": "SE.txt"
-  },
-  {
-    "name": "FR.txt"
-  },
-  {
-    "name": "RU.txt"
-  },
-  {
-    "name": "MX.txt"
   }
 ]
