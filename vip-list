@@ -3,22 +3,16 @@
     "name": "CH.txt"
   },
   {
-    "name": "CU.txt"
-  },
-  {
     "name": "DE.txt"
   },
   {
     "name": "FR.txt"
   },
   {
+    "name": "GB.txt"
+  },
+  {
     "name": "HT.txt"
-  },
-  {
-    "name": "IN.txt"
-  },
-  {
-    "name": "IT.txt"
   },
   {
     "name": "MX.txt"
@@ -33,18 +27,12 @@
     "name": "SG.txt"
   },
   {
-    "name": "TR.txt"
-  },
-  {
     "name": "US.txt"
   },
   {
-    "name": "KR.txt"
+    "name": "IT.txt"
   },
   {
-    "name": "CA.txt"
-  },
-  {
-    "name": "SE.txt"
+    "name": "CU.txt"
   }
 ]
